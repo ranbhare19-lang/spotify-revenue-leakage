@@ -21,9 +21,9 @@ which plans, countries, and user segments are most at risk.
 - Indonesia = the highest inactive user country with 693 users
 
 ## Tools Used
-- SQL Server — data storage and analysis
-- Power BI — dashboard and visualization
-- DAX — KPI measures and calculations
+- SQL Server - data storage and analysis
+- Power BI - dashboard and visualization
+- DAX - KPI measures and calculations
 
 ## SQL Queries
 7 business queries covering:
@@ -46,8 +46,4 @@ Power BI dashboard includes:
 ## Dataset
 Spotify User Behavior Dataset — 50,000 records
 Source: Kaggle
-```
 
-Click **Commit changes** then **Commit changes** again.
-
-Tell me when done!
